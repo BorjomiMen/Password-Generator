@@ -1,9 +1,5 @@
 # 🔐 Password Generator Application
 
-![Password Generator Screenshot](screenshot.png)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
-
 A secure and feature-rich password generator application with a modern GUI interface, password strength analysis, and history tracking.
 
 ## ✨ Features
