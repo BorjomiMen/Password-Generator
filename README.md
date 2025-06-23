@@ -224,7 +224,7 @@ if __name__ == "__main__":
 ```
 ## 📋 Requirements
 ```bash
-📋 Requirements
+pip install tkinter ttkthemes pandas pyperclip
 ```
 ## 🖥️ Usage
 1) Run the application:
